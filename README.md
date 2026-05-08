@@ -2,7 +2,7 @@
 
 A React + Vite based card management application.
 
-## 📦 Tech Stack
+## sTech Stack
 - **React** (v19) for UI
 - **Redux Toolkit** for state management
 - **React Hook Form + Zod** for form handling and validation

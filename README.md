@@ -10,13 +10,13 @@ A React + Vite based card management application.
 - **Vite** for fast bundling and development
 - **ESLint** for linting
 
-## 🚀 Scripts
+## Scripts
 - `npm run dev` → Start development server
 - `npm run build` → Build production bundle
 - `npm run preview` → Preview production build
 - `npm run lint` → Run ESLint checks
 
-## 🔧 Installation
+## Installation
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Roopesh127/card-management-giriraj.git
